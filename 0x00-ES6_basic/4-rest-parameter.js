@@ -1,4 +1,3 @@
-export default function returnHowManyArguments(...restParam) {
-    return restParam.length;
+export default function returnHowManyArguments (...restParam) {
+  return restParam.length;
 }
-
