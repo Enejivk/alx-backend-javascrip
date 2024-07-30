@@ -9,4 +9,4 @@ const updateStudentGradeByCity = (arrayList, city, newGrade) => {
     });
   return filteredList;
 };
-export default updateStudentGradeByCity;
+exports.default = updateStudentGradeByCity;
