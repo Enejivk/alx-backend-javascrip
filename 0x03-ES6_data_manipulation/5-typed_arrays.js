@@ -7,4 +7,4 @@ const createInt8TypedArray = (length, position, value) => {
   dataView.setInt8(position, value);
   return dataView;
 };
-exports.default = createInt8TypedArray;
+export default createInt8TypedArray;
