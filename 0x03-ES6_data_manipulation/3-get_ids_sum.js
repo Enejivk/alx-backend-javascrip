@@ -3,4 +3,3 @@ const getStudentIdsSum = (arrayList) => {
   return sum;
 };
 export default getStudentIdsSum;
-d
